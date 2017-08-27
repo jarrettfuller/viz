@@ -1,4 +1,4 @@
-# Parsons Core Studio Typography
+# University of the Arts - Visualizing Language II
 # Fall 2017
 
-Site: jarrettfuller.com/type
+Site: jarrettfuller.com/viz
