@@ -1,12 +1,14 @@
 * {
     padding: 0px;
     margin: 0px;
+    font-size: 16px;
+    line-height: 20px;
 }
 body {
     margin: 5px;
-    font-family: 'Merriweather', serif;
-    font-size: 14px;
-    line-height: 17px;
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
 }
 a {
     color: black;
@@ -19,11 +21,9 @@ a:hover {
     background: black;
 }
 h1 {
-    font-size: 14px;
     font-weight: 700;
 }
 h2 {
-    font-size: 14px;
     font-weight: 700;
 }
 header {
@@ -46,7 +46,6 @@ nav {
 }
 .syllabus h3 {
     width: 15%;
-    font-size: 14px;
     font-weight: 700;
 }
 .class {
@@ -54,8 +53,9 @@ nav {
 }
 .class li {
     margin-left: 17px;
-
-
+}
+img {
+    width: 60%;
 }
 
 /* MOBILE
@@ -70,3 +70,4 @@ nav {
     .class {
         width: 100%;
     }
+    img { width: 100%; }
